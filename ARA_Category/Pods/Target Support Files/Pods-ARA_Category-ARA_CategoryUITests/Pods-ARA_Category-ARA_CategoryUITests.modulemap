@@ -1,0 +1,6 @@
+framework module Pods_ARA_Category_ARA_CategoryUITests {
+  umbrella header "Pods-ARA_Category-ARA_CategoryUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
